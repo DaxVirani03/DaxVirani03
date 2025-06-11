@@ -60,8 +60,29 @@ Let’s just say my code forgot about sleep 😅
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" />
 </p>
 
-📦 **Libraries/Frameworks**  
-Pandas • NumPy • Matplotlib • Seaborn • SciPy • scikit-learn  
+📦 Libraries & Frameworks (Clean & Practical)
+
+🧠 Core ML & Data Science
+pandas • numpy • scikit-learn • statsmodels • scipy 
+
+📈 Finance & Time Series
+yfinance • prophet • statsmodels
+
+🏪 Inventory / Retail Analytics
+pandas • openpyxl • sqlalchemy
+
+🏥 Hospitality / Service Industry
+streamlit • dash • Flask
+(for dashboards, booking tools, reporting apps)
+
+📊 Visualization
+matplotlib • seaborn • plotly
+
+🌐 Web & APIs
+Flask • requests • BeautifulSoup • FastAPI 
+
+📦 Deployment & Experimentation:
+Gradio • Streamlit • MLflow •  Weights & Biases
 
 📊 **Tools for Data & BI**  
 Google Colab • Excel • Google Sheets • Power BI • Tableau
