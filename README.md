@@ -94,9 +94,10 @@ Google Colab • Excel • Google Sheets • Power BI • Tableau
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaxVirani03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DaxVirani03&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaxVirani03" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaxVirani03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 
